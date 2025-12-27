@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>About HTH</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Hard to Hear</h1>
+    <p>Ideas that are hard to ignore — yet must be said</p>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="about.html">AboutHTH</a>
+      <a href="articles/article1.html">Articles</a>
+      <a href="contact.html">Contact</a>
+    </nav>
+  </header>
+
+  <main>
+    <section>
+      <h2>About Hard to Hear</h2>
+      <p>
+        This webpage was created by Adam Kjoelen, a political scientist based out of Oslo.
+        The platform has been created to ensure that your voice is heard by the political class, the policy-makers and those with power to change this world.
+        Submit an op-ed, discuss with fellow patriots or join our social media community
+
+      </p>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2026 Hard to Hear | <a href="mailto:adam.kjolen@gmail.com">adam.kjolen@gmail.com</a></p>
+  </footer>
+</body>
+</html>
